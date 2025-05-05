@@ -1,0 +1,11 @@
+/* styles.css */
+#dynamicText {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.styled {
+    background-color: lightgreen;
+    border: 1px solid orange;
+    padding: 10px;
+}
